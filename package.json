@@ -1,0 +1,8 @@
+{
+  "name": "simple_crud_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:martinsgabriel1956/simple_crud_with_node.git",
+  "author": "Gabriel Martins <martinsgabriel1956@gmail.com>",
+  "license": "MIT"
+}
